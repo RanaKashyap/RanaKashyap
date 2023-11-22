@@ -1,8 +1,8 @@
-# Hello, I'm Your Name! 👋
+# Hello, I'm Kashyap Rana! 👋
 
 - 🌱 I'm currently learning [Your Current Focus].
 - 💬 Ask me about [Your Expertise].
-- 📫 How to reach me: [Your Email] | [Your Website] | [LinkedIn]
+- 📫 How to reach me: ranakashyap15@gmail.com | [Your Website] | [https://www.linkedin.com/in/kashyaprana321/]
 
 ## Projects
 
